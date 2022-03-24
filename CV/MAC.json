@@ -238,6 +238,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Mirai",
+          "image": {
+            "alt": "mirai-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/158b3004-52e8-4523-8503-29b00984353d_mirai-logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back-end developer",
+            "startDate": "2016-05-01",
+            "finishDate": "2018-10-01",
+            "challenges": [
+              {
+                "description": "As part of Mirai's back-end developers team, I had to analyse the requisites, design the low level architecture, code, test and deploy new functionalities.\n\nOverall, I developed software related with hotels management and statistical reports. This reports used a different DDBB to extract data, MongoDB specifically. The ETL process which migrated the data from PostgreSQL to MongoDB was one of my biggest achievements.\n\nAlso, I had to develop Front-end related stories, using JQuery, JSPs, CSS Styles, etc. This developments where focused in the company's intranet, where hoteliers configure their hotels.\n\nAnother business branch was the third-party integration with brands like Google, Trivago, TripAdvisor,etc. I contributed in the development of Trivago's ExpressBooking and Google's HotelAds API integration."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Spring-Batch",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
