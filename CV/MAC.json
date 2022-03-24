@@ -162,6 +162,17 @@
         "tags": [
           "Talks"
         ]
+      },
+      {
+        "details": {
+          "name": "Nasa SpaceApps Hackaton 2015",
+          "description": "1st local Award"
+        },
+        "type": "achievement",
+        "publishingDate": "2015-04-01",
+        "tags": [
+          "Hackatons"
+        ]
       }
     ]
   },
