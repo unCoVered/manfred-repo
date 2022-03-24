@@ -146,6 +146,25 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Engineering",
+        "startDate": "2010-09-01",
+        "finishDate": "2015-10-01",
+        "institution": {
+          "name": "University of Zaragoza",
+          "description": "Degree in Computer Engineering",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/91bfc0af-2aa2-440c-ba3a-0692b9b77816_shared-image.png"
+          }
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
