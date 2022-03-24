@@ -84,6 +84,49 @@
       },
       {
         "organization": {
+          "name": "HPEnterprise",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac75d8ef-81f4-4936-9d29-4d0c063f2813_shared-image.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back-end developer",
+            "startDate": "2015-11-01",
+            "finishDate": "2016-05-01",
+            "challenges": [
+              {
+                "description": "As a member of the Back-End team, I had to analyze the new modules of the system, create the low-level architecture, code it and test that works as intended."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Plain Concepts",
           "image": {
             "alt": "Shared Image.png",
