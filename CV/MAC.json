@@ -127,6 +127,49 @@
       },
       {
         "organization": {
+          "name": "Tap Consulting S.L.",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ee8beb84-925f-4b43-b32f-f9bfe8739a86_shared-image.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back-end developer",
+            "startDate": "2015-02-01",
+            "finishDate": "2015-09-01",
+            "challenges": [
+              {
+                "description": "Twenty (20) KPIs developed working with business consultants and graphic designers.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Vaadin",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Plain Concepts",
           "image": {
             "alt": "Shared Image.png",
