@@ -144,6 +144,25 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "ELK Talk",
+          "description": "Talk about the stack ELK"
+        },
+        "type": "talk",
+        "publishingDate": "2021-12-01",
+        "relatedCompetences": [
+          {
+            "name": "ELK",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Talks"
+        ]
+      }
     ]
   },
   "knowledge": {
