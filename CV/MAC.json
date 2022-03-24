@@ -72,6 +72,77 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Stratio",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/832ee0d3-b8e3-4a54-bceb-ddf5df70d997_shared-image.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Data Engineer",
+            "startDate": "2020-10-01",
+            "finishDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "Client: Carrefour\n\nCarrefour has a Data Warehouse (DW) system where stores huge volumes of data related with stores, hyper markets, stock, providers and so on. The amount of daily transactions is, also, really high. \nAs a BigData Engineer, my role is the maintenance, improvement and development of the spark processes which ingest the DW daily.  \n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Scala",
+                "type": "technology"
+              },
+              {
+                "name": "Spark",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Hive",
+                "type": "technology"
+              },
+              {
+                "name": "Control-M",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Artifactory",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
