@@ -1,0 +1,42 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alejandro",
+      "surnames": "Galvez",
+      "title": "",
+      "description": "Hello! I'm Alejandro Gálvez, born 30 years ago in Zaragoza. \n\nI studied Computer Engineering in Zaragoza University and specialized in 'Big Data'. At that moment, 'Big Data' was something new, what I studied was Data Warehouses, Data Mining, etc. \n\nSadly, I finished the degree when de economic crisis was still trending, so I had to accept a job as a Junio BackEnd developer after I graduated. In Zaragoza, the concep of \"Big Data\" didn't exist at that moment. \nAfter studying hard by myself different programming languages like Scala or Python, develop several personal projects with Spark, Kafka and other Big Data technologies and enroll in different coursera courses related with Functional Programming, Data Science, Reactive Programming, etc. I finally made mi first steps in the \"Big Data World\". \n\nI always thought that our profession is more about self-studying and experience than careers. \nFor this reason, in my 4th year of degree I worked at the same time I studied and currently I try to study new technologies and try to keep improving my skills in my free time. \n\nI'll work hard in order to obtain a job that gives me freedom. I want to work from wherever I want and, if possible, with flexible schedule. I think that my work talks by itself and I don't need to justify my work hours sitting in a chair. \n\nIn my short career I've been able to work for startups (Idiogram Techonolgies, Mirai) and big companies (Telefonica, Santillana Global) and I've learned the good and bad points of both types of company. In the last two years I worked for Stratio and Plain Concepts, where I have embraced the scrum methodology and self-managed working groups.\nAt the same time, I've learned that I have to reach an equilibrium between salary and responsabilities, something that sadly doesn't happen in my current job. \n\nI like working with people that knows more than me about stuff related with the job, learning new things while I'm working and help others as well as ask for help when needed. \n\nI consider myself a good teamplayer, however I can be too \"straight\" when talking with the clients. Also, I may be a bit too \"picky\" with everything related with the number of work hours. \n\nOne of my dreams is keep working in remote and being able to save enough money to buy my own house.",
+      "location": {
+        "notes": ""
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alejandro-gálvez-vicente-181a588b/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/unCoVered"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/aLeX134_"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alejandro-gálvez-vicente-181a588b/"
+        }
+      ]
+    }
+  }
+}
