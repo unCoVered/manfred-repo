@@ -68,6 +68,18 @@
               {
                 "name": "Azure",
                 "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
               }
             ]
           }
