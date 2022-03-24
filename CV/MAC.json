@@ -148,6 +148,17 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Nasa SpaceApps 2014",
+          "description": "3rd award in Zaragoza"
+        },
+        "type": "achievement",
+        "publishingDate": "2014-04-01",
+        "tags": [
+          "Hackatons"
+        ]
+      },
+      {
+        "details": {
           "name": "ELK Talk",
           "description": "Talk about the stack ELK"
         },
