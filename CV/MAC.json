@@ -29,6 +29,48 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Plain Concepts"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "Plain Concepts it's known in Spain by the technical excellence of the solutions they develop for their clients and the high professionalism of their employees. \nAs a FullStack developer, I had to work for different clients writing JavaScript code for the BackEnd and React or Angular for the FrontEnd. Also, I did client trainings in several technologies like ELK (thanks to my Data Engineer background) and consultings related with data base performance and optimisations.\n\nIn addition, Plain structures the Engineers in self-managed groups, so my responsibilities included communicating to clients, defining and writing new project proposals, managing critical situations, etc.\n\nThe methodology used was Scrum, including liturgies like 'planning', 'demo to clients' and 'retrospectives'."
+              }
+            ],
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
