@@ -33,7 +33,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "Plain Concepts"
+          "name": "Plain Concepts",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/599efb87-d599-410a-a613-f2142cfcb1a9_shared-image.png"
+          }
         },
         "roles": [
           {
