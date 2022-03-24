@@ -143,6 +143,89 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Neoris S.L.",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a3482f12-35d7-4d9a-80d2-fb08118585ae_shared-image.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Data Engineer",
+            "startDate": "2019-06-01",
+            "finishDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "Client: Santillana global S.L.\n\nSantillana offers to the students different web tools to improve their learning experience. In order to manage the students results, the teachers are provided with a dashboard where they can evaluate their students. \n\nTo generate this dashboard, the logs of the different tools are extracted, transformed and loaded (ETL) in parquet files using Amazon Glue and Spark. Calling REST micro services, this information is shown in the dashboard, using Amazon Athena to query the data. \n\nAt the same time, legacy code had to be fixed and maintained.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "PySpark",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Redshift",
+                "type": "technology"
+              },
+              {
+                "name": "DynamoDB",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Aurora",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Bamboo",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
+                "name": "Nexus",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
