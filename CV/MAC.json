@@ -595,6 +595,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Functional Program Design in Scala",
+        "startDate": "2016-09-01",
+        "finishDate": "2016-12-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "",
+          "URL": "https://www.coursera.org/learn/scala-functional-program-design/home/welcome",
+          "image": {
+            "alt": "Screenshot 2022-03-28 at 20.25.02.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d609625d-5071-433e-853d-38e5e0bd2865_screenshot-2022-03-2.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering",
