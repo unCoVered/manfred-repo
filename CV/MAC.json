@@ -655,6 +655,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "ELK+Beats: Centraliza logs con Elastic Stack",
+        "startDate": "2021-12-01",
+        "finishDate": "2021-12-01",
+        "institution": {
+          "name": "Codely",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/elkbeats-centraliza-logs-con-elastic-stack-36986/88971/path/",
+          "image": {
+            "alt": "logo-CodelyTV.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/4cf9b27e-3a1d-4688-a031-52ba09dee8e3_logo-codelytv.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "ELK",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering",
