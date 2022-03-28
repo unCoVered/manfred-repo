@@ -725,6 +725,27 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AWS: Autoescalado de aplicaciones con ALB y ASG",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Codely",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/aws-autoescalado-de-aplicaciones-con-alb-y-asg-31133/66589",
+          "image": {
+            "alt": "logo-CodelyTV.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/5e54d2f8-fffb-4190-9dd1-0cf71e397158_logo-codelytv.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering",
