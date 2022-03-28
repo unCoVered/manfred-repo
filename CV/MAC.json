@@ -551,6 +551,28 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Machine Learning",
+        "startDate": "2017-02-01",
+        "finishDate": "2017-05-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "Platform: Coursera\nUniversity: Stanford Machine Learning course\nTeacher: Andrew Ng",
+          "URL": "https://www.coursera.org/learn/machine-learning/home/welcome",
+          "image": {
+            "alt": "coursera-machine-learning.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/a12d2037-741d-4ac2-9989-9e5b389c5bcd_coursera-machine-lea.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Matlab",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering",
