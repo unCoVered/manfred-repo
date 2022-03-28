@@ -37,6 +37,19 @@
           }
         ],
         "summary": "There are a lot of problems understanding what is monad when we are talking about pure functional programming. \n\nThis artricle tries to simplify the explanation."
+      },
+      {
+        "title": "Data Centric, the backbone of digital transformation",
+        "type": "reading",
+        "URL": "https://en.paradigmadigital.com/techbiz/data-centric-backbone-digital-transformation/",
+        "authors": [
+          {
+            "name": "Alejandro",
+            "surnames": "Asensio",
+            "title": "Author"
+          }
+        ],
+        "summary": "How to desing your Big-Data architecture correctly and how important is the 'data' to obtain valuable information"
       }
     ]
   },
