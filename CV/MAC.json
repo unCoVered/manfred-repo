@@ -677,6 +677,32 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS: Tu primer deploy en EC2",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Codely",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/aws-tu-primer-deploy-en-ec2-29085/62577/path/",
+          "image": {
+            "alt": "logo-CodelyTV.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d82f04eb-e9b0-4732-89f6-d227728b27eb_logo-codelytv.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "EC2",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering",
