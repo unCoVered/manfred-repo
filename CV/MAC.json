@@ -24,6 +24,16 @@
         "URL": "https://twitter.com/aLeX134_"
       }
     ],
+    "interestingFacts": [
+      {
+        "topic": "I love learning new things",
+        "fact": "I'm studying several new technologies and trying to improve my skills"
+      },
+      {
+        "topic": "I have a lot of hobbies",
+        "fact": "Taking photos with my FUJI camera, playing piano, boxing, gym, studying Japanese and English..."
+      }
+    ],
     "recommendations": [
       {
         "title": "What is a Monad",
