@@ -602,7 +602,7 @@
         "finishDate": "2016-12-01",
         "institution": {
           "name": "Coursera",
-          "description": "",
+          "description": "Platform: Coursera\nUniversity: École Polytechnique Fédérale de Lausanne\nTeacher: Martin Odersky",
           "URL": "https://www.coursera.org/learn/scala-functional-program-design/home/welcome",
           "image": {
             "alt": "Screenshot 2022-03-28 at 20.25.02.png",
