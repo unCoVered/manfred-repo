@@ -29,57 +29,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Neoris S.L.",
-          "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a41182dc-bec2-4de5-bf93-1f588cba64c5_shared-image.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Senior analyst",
-            "startDate": "2017-10-01",
-            "finishDate": "2019-01-01",
-            "challenges": [
-              {
-                "description": "Client: TELEFONICA S.A.\n\nTELCO aims to digitally transform every tool and program used by Telefonica. In order to reach this goal, every tool and program is reanalysed and re-implemented \n\nMy role was analyse the user cases that I'm provided with and create a Logical Design, a Physical Design and it's documentation. This documentation will be given to a developer who will be responsible for its implementation.\nWhile the design is being implemented, I have to keep in contact with the developers to guide them, make corrections in the documentation and answer their design-related questions. Once the design is implemented, I have to check that the code style follows the company's good practices and test and deploy it in the different testing environments. To accomplish this task I have to coordinate with different teams to ensure that the necessary dependencies have been deployed.\nOnce the code has been tested and passes all the quality standards it's deployed in production. \n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Sonar",
-                "type": "technology"
-              },
-              {
-                "name": "JUnit",
-                "type": "technology"
-              },
-              {
-                "name": "Mockito",
-                "type": "technology"
-              },
-              {
-                "name": "Weblogic",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "HPEnterprise",
           "image": {
             "alt": "Shared Image.png",
@@ -417,6 +366,57 @@
               },
               {
                 "name": "Spring-Batch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Neoris S.L.",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a41182dc-bec2-4de5-bf93-1f588cba64c5_shared-image.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Analyst",
+            "startDate": "2017-10-01",
+            "finishDate": "2019-01-01",
+            "challenges": [
+              {
+                "description": "Client: TELEFONICA S.A.\n\nTELCO aims to digitally transform every tool and program used by Telefonica. In order to reach this goal, every tool and program is reanalysed and re-implemented \n\nMy role was analyse the user cases that I'm provided with and create a Logical Design, a Physical Design and it's documentation. This documentation will be given to a developer who will be responsible for its implementation.\nWhile the design is being implemented, I have to keep in contact with the developers to guide them, make corrections in the documentation and answer their design-related questions. Once the design is implemented, I have to check that the code style follows the company's good practices and test and deploy it in the different testing environments. To accomplish this task I have to coordinate with different teams to ensure that the necessary dependencies have been deployed.\nOnce the code has been tested and passes all the quality standards it's deployed in production. \n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
+                "name": "JUnit",
+                "type": "technology"
+              },
+              {
+                "name": "Mockito",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
                 "type": "technology"
               }
             ]
