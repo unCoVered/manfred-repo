@@ -23,6 +23,21 @@
         "type": "twitter",
         "URL": "https://twitter.com/aLeX134_"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "What is a Monad",
+        "type": "reading",
+        "URL": "https://towardsdatascience.com/monads-from-the-lens-of-imperative-programmer-af1ab8c8790c",
+        "authors": [
+          {
+            "name": "Vidisha",
+            "surnames": "Jitani",
+            "title": "Author"
+          }
+        ],
+        "summary": "There are a lot of problems understanding what is monad when we are talking about pure functional programming. \n\nThis artricle tries to simplify the explanation."
+      }
     ]
   },
   "experience": {
