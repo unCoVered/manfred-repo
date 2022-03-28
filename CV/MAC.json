@@ -573,6 +573,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Functional Programming Principles in Scala",
+        "startDate": "2016-06-01",
+        "finishDate": "2016-09-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "Platform: Coursera\nUniversity: École Polytechnique Fédérale de Lausanne\nTeacher: Martin Odersky",
+          "URL": "https://www.coursera.org/learn/scala-functional-programming/home/welcome",
+          "image": {
+            "alt": "Screenshot 2022-03-28 at 20.25.02.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/16ee849e-1b79-46d4-a3ec-52626a752a70_screenshot-2022-03-2.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering",
