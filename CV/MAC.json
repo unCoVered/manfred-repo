@@ -703,6 +703,28 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Git: Introducción y trabajo en equipo",
+        "startDate": "2022-02-01",
+        "finishDate": "2022-02-01",
+        "institution": {
+          "name": "Codely",
+          "description": "",
+          "URL": "https://pro.codely.tv/library/git-introduccion-y-trabajo-en-equipo-45727/93728/path/",
+          "image": {
+            "alt": "logo-CodelyTV.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/53f4ba08-b5d2-4618-95c3-1668043f99d6_logo-codelytv.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Computer Engineering",
