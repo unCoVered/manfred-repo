@@ -575,6 +575,38 @@
           "URL": "https://www.linkedin.com/in/alejandro-gálvez-vicente-181a588b/"
         }
       ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Scala",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "PySpark",
+          "type": "technology"
+        },
+        {
+          "name": "Spark",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Redshift",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
