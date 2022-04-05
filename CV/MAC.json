@@ -93,15 +93,15 @@
                 "type": "technology"
               },
               {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
                 "name": "Maven",
                 "type": "technology"
               },
               {
                 "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
                 "type": "technology"
               }
             ]
@@ -132,11 +132,7 @@
                 "type": "technology"
               },
               {
-                "name": "JBoss",
-                "type": "technology"
-              },
-              {
-                "name": "Hibernate",
+                "name": "Vaadin",
                 "type": "technology"
               },
               {
@@ -144,7 +140,11 @@
                 "type": "technology"
               },
               {
-                "name": "Vaadin",
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
                 "type": "technology"
               }
             ]
@@ -170,6 +170,10 @@
             ],
             "competences": [
               {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
                 "name": "Angular2+",
                 "type": "technology"
               },
@@ -178,11 +182,7 @@
                 "type": "technology"
               },
               {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
+                "name": "ELK",
                 "type": "technology"
               },
               {
@@ -194,11 +194,11 @@
                 "type": "technology"
               },
               {
-                "name": "ELK",
+                "name": "Sonar",
                 "type": "technology"
               },
               {
-                "name": "Sonar",
+                "name": "Terraform",
                 "type": "technology"
               }
             ]
@@ -225,19 +225,7 @@
             ],
             "competences": [
               {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Kafka",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
+                "name": "Scala",
                 "type": "technology"
               },
               {
@@ -245,23 +233,7 @@
                 "type": "technology"
               },
               {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Scala",
-                "type": "technology"
-              },
-              {
-                "name": "Kibana",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Control-M",
+                "name": "Kafka",
                 "type": "technology"
               },
               {
@@ -269,7 +241,35 @@
                 "type": "technology"
               },
               {
+                "name": "Control-M",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
                 "name": "Artifactory",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
                 "type": "technology"
               }
             ]
@@ -296,19 +296,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
+                "name": "PySpark",
                 "type": "technology"
               },
               {
@@ -316,7 +308,7 @@
                 "type": "technology"
               },
               {
-                "name": "Lambda",
+                "name": "Redshift",
                 "type": "technology"
               },
               {
@@ -324,15 +316,27 @@
                 "type": "technology"
               },
               {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Aurora",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
                 "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Nexus",
-                "type": "technology"
-              },
-              {
-                "name": "Sonar",
                 "type": "technology"
               },
               {
@@ -344,15 +348,11 @@
                 "type": "technology"
               },
               {
-                "name": "PySpark",
+                "name": "Sonar",
                 "type": "technology"
               },
               {
-                "name": "Redshift",
-                "type": "technology"
-              },
-              {
-                "name": "Aurora",
+                "name": "Nexus",
                 "type": "technology"
               }
             ]
@@ -383,18 +383,6 @@
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
                 "name": "Maven",
                 "type": "technology"
               },
@@ -403,7 +391,19 @@
                 "type": "technology"
               },
               {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
                 "name": "Spring-Batch",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
                 "type": "technology"
               }
             ]
@@ -726,9 +726,10 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "AWS: Autoescalado de aplicaciones con ALB y ASG",
         "startDate": "2022-03-01",
+        "finishDate": "2022-04-01",
         "institution": {
           "name": "Codely",
           "description": "",
