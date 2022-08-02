@@ -70,13 +70,13 @@
           "name": "Pixsy",
           "image": {
             "alt": "pixsy_2018_logo_email_xs.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/2b493519-2aed-4d13-8efe-f7ab60e68afd_pixsy_2018_logo_emai.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/57b0dd5b-1d62-4488-a6b0-6e7d7bea23e2_pixsy_2018_logo_emai.png"
           },
           "URL": "https://www.pixsy.com"
         },
         "roles": [
           {
-            "name": "Full Stack Developer",
+            "name": "Full Stack developer",
             "startDate": "2022-05-01",
             "challenges": [
               {
