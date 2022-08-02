@@ -68,6 +68,10 @@
       {
         "organization": {
           "name": "Pixsy",
+          "image": {
+            "alt": "pixsy_2018_logo_email_xs.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/2b493519-2aed-4d13-8efe-f7ab60e68afd_pixsy_2018_logo_emai.png"
+          },
           "URL": "https://www.pixsy.com"
         },
         "roles": [
@@ -85,11 +89,35 @@
                 "type": "technology"
               },
               {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "BigQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
                 "name": "Docker",
                 "type": "technology"
               },
               {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
                 "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
                 "type": "technology"
               },
               {
