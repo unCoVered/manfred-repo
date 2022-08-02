@@ -490,14 +490,14 @@
         "organization": {
           "name": "Tap Consulting S.L.",
           "image": {
-            "alt": "logo-header.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/388c18f1-4c76-4cf7-840c-54fc10369612_logo-header.jpg"
+            "alt": "Hewlett_Packard_Enterprise_logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/cdb70704-7896-4a80-8353-235b4fbf93d8_hewlett_packard_ente.png"
           },
           "URL": "https://tapconsultoria.com"
         },
         "roles": [
           {
-            "name": "Back End Developer",
+            "name": "Back-End Developer",
             "startDate": "2015-02-01",
             "finishDate": "2015-06-01",
             "challenges": [
