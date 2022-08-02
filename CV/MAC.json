@@ -67,12 +67,44 @@
     "jobs": [
       {
         "organization": {
-          "name": "Pixsy"
+          "name": "Pixsy",
+          "URL": "https://www.pixsy.com"
         },
         "roles": [
           {
-            "name": "Full stack Engineer",
-            "startDate": "2022-05-01"
+            "name": "Full Stack Developer",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "WIP"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
