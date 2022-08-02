@@ -488,14 +488,11 @@
       {
         "organization": {
           "name": "Tap Consulting S.L.",
-          "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ee8beb84-925f-4b43-b32f-f9bfe8739a86_shared-image.png"
-          }
+          "URL": "https://tapconsultoria.com"
         },
         "roles": [
           {
-            "name": "Back-end developer",
+            "name": "Back-end Developer",
             "startDate": "2015-02-01",
             "finishDate": "2015-06-01",
             "challenges": [
