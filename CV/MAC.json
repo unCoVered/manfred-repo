@@ -76,11 +76,11 @@
         },
         "roles": [
           {
-            "name": "Full Stack developer",
+            "name": "Full-Stack developer",
             "startDate": "2022-05-01",
             "challenges": [
               {
-                "description": "WIP"
+                "description": "Pixsy offers legal services to photographers and illustrators whose work and images has been used by corporations without permission. \nTo achieve this, Pixsy offers to the users a web-platform where the users upload their images (or connection with Flicker) and a top-notch reverse-search engine that will search the web to find matches. \nOnce matches have been found, the user can open a legal case versus de company that did the infringement.\n\nAs part of the IT team, my responsibilities were: \n- Improving MongoDB performance\n- Developing DB housekeeping scripts\n- Developing new web-app and intranet features\n- Developing and maintain image similarity algorithms"
               }
             ],
             "competences": [
@@ -126,6 +126,10 @@
               },
               {
                 "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
                 "type": "technology"
               },
               {
