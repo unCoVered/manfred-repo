@@ -395,13 +395,14 @@
         "organization": {
           "name": "Mirai",
           "image": {
-            "alt": "mirai-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/158b3004-52e8-4523-8503-29b00984353d_mirai-logo.png"
-          }
+            "alt": "158b3004-52e8-4523-8503-29b00984353d_mirai-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/b3edb581-88f8-46f3-a9e1-e1c162f5cf1a_158b3004-52e8-4523-8.png"
+          },
+          "URL": "https://es.mirai.com/es/"
         },
         "roles": [
           {
-            "name": "Back-end developer",
+            "name": "Back-End developer",
             "startDate": "2016-05-01",
             "finishDate": "2017-10-01",
             "challenges": [
