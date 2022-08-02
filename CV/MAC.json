@@ -446,13 +446,14 @@
         "organization": {
           "name": "HPEnterprise",
           "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac75d8ef-81f4-4936-9d29-4d0c063f2813_shared-image.png"
-          }
+            "alt": "logo-header.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/572ebf90-765e-41f7-b227-6563ea730392_logo-header.jpg"
+          },
+          "URL": "https://www.google.com/search?client=safari&rls=en&q=hpe&ie=UTF-8&oe=UTF-8"
         },
         "roles": [
           {
-            "name": "Back-end developer",
+            "name": "Back End developer",
             "startDate": "2015-11-01",
             "finishDate": "2016-05-01",
             "challenges": [
