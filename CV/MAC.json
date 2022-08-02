@@ -447,13 +447,13 @@
           "name": "HPEnterprise",
           "image": {
             "alt": "Hewlett_Packard_Enterprise_logo.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/b652d814-55bc-48e7-b258-7973a259aa27_hewlett_packard_ente.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/45307d6d-8198-4a1d-b7c2-bc4a5f5864ab_hewlett_packard_ente.png"
           },
           "URL": "https://www.google.com/search?client=safari&rls=en&q=hpe&ie=UTF-8&oe=UTF-8"
         },
         "roles": [
           {
-            "name": "Back End developer",
+            "name": "Back-End developer",
             "startDate": "2015-11-01",
             "finishDate": "2016-05-01",
             "challenges": [
