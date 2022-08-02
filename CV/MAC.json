@@ -488,6 +488,10 @@
       {
         "organization": {
           "name": "Tap Consulting S.L.",
+          "image": {
+            "alt": "logo-header.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/1237266c-859f-435a-baf5-8596b3bd1ac9_logo-header.jpg"
+          },
           "URL": "https://tapconsultoria.com"
         },
         "roles": [
