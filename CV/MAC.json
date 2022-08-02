@@ -36,19 +36,6 @@
     ],
     "recommendations": [
       {
-        "title": "What is a Monad",
-        "type": "reading",
-        "URL": "https://towardsdatascience.com/monads-from-the-lens-of-imperative-programmer-af1ab8c8790c",
-        "authors": [
-          {
-            "name": "Vidisha",
-            "surnames": "Jitani",
-            "title": "Author"
-          }
-        ],
-        "summary": "There are a lot of problems understanding what is monad when we are talking about pure functional programming. \n\nThis artricle tries to simplify the explanation."
-      },
-      {
         "title": "Data Centric, the backbone of digital transformation",
         "type": "reading",
         "URL": "https://en.paradigmadigital.com/techbiz/data-centric-backbone-digital-transformation/",
@@ -60,6 +47,19 @@
           }
         ],
         "summary": "How to desing your Big-Data architecture correctly and how important is the 'data' to obtain valuable information"
+      },
+      {
+        "title": "What is a Monad",
+        "type": "reading",
+        "URL": "https://towardsdatascience.com/monads-from-the-lens-of-imperative-programmer-af1ab8c8790c",
+        "authors": [
+          {
+            "name": "Vidisha",
+            "surnames": "Jitani",
+            "title": "Author"
+          }
+        ],
+        "summary": "There are a lot of problems understanding what is monad when we are talking about pure functional programming. \n\nThis artricle tries to simplify the explanation."
       }
     ]
   },
@@ -67,97 +67,18 @@
     "jobs": [
       {
         "organization": {
-          "name": "HPEnterprise",
-          "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac75d8ef-81f4-4936-9d29-4d0c063f2813_shared-image.png"
-          }
+          "name": "Pixsy"
         },
         "roles": [
           {
-            "name": "Back-end developer",
-            "startDate": "2015-11-01",
-            "finishDate": "2016-05-01",
-            "challenges": [
-              {
-                "description": "As a member of the Back-End team, I had to analyze the new modules of the system, create the low-level architecture, code it and test that works as intended."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "JBoss",
-                "type": "technology"
-              },
-              {
-                "name": "Maven",
-                "type": "technology"
-              },
-              {
-                "name": "SQLServer",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              }
-            ]
+            "name": "Full stack Engineer",
+            "startDate": "2022-05-01"
           }
         ]
       },
       {
         "organization": {
-          "name": "Tap Consulting S.L.",
-          "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ee8beb84-925f-4b43-b32f-f9bfe8739a86_shared-image.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Back-end developer",
-            "startDate": "2015-02-01",
-            "finishDate": "2015-06-01",
-            "challenges": [
-              {
-                "description": "Twenty (20) KPIs developed working with business consultants and graphic designers.\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Vaadin",
-                "type": "technology"
-              },
-              {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "JBoss",
-                "type": "technology"
-              },
-              {
-                "name": "Hibernate",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Plain Concepts",
-          "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/599efb87-d599-410a-a613-f2142cfcb1a9_shared-image.png"
-          }
+          "name": "Plain Concepts"
         },
         "roles": [
           {
@@ -170,19 +91,7 @@
             ],
             "competences": [
               {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
                 "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "ELK",
                 "type": "technology"
               },
               {
@@ -190,7 +99,15 @@
                 "type": "technology"
               },
               {
+                "name": "ELK",
+                "type": "technology"
+              },
+              {
                 "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "React",
                 "type": "technology"
               },
               {
@@ -199,6 +116,10 @@
               },
               {
                 "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -225,31 +146,7 @@
             ],
             "competences": [
               {
-                "name": "Scala",
-                "type": "technology"
-              },
-              {
-                "name": "Spark",
-                "type": "technology"
-              },
-              {
-                "name": "Kafka",
-                "type": "technology"
-              },
-              {
-                "name": "Hive",
-                "type": "technology"
-              },
-              {
-                "name": "Control-M",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
+                "name": "Artifactory",
                 "type": "technology"
               },
               {
@@ -257,7 +154,11 @@
                 "type": "technology"
               },
               {
-                "name": "Artifactory",
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Control-M",
                 "type": "technology"
               },
               {
@@ -265,11 +166,31 @@
                 "type": "technology"
               },
               {
-                "name": "Kibana",
+                "name": "Hive",
                 "type": "technology"
               },
               {
                 "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kibana",
+                "type": "technology"
+              },
+              {
+                "name": "Scala",
+                "type": "technology"
+              },
+              {
+                "name": "Spark",
                 "type": "technology"
               }
             ]
@@ -300,6 +221,46 @@
                 "type": "technology"
               },
               {
+                "name": "Aurora",
+                "type": "technology"
+              },
+              {
+                "name": "Bamboo",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "DynamoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "Nexus",
+                "type": "technology"
+              },
+              {
                 "name": "PySpark",
                 "type": "technology"
               },
@@ -312,98 +273,7 @@
                 "type": "technology"
               },
               {
-                "name": "DynamoDB",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Aurora",
-                "type": "technology"
-              },
-              {
-                "name": "Lambda",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Bamboo",
-                "type": "technology"
-              },
-              {
                 "name": "Sonar",
-                "type": "technology"
-              },
-              {
-                "name": "Nexus",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Mirai",
-          "image": {
-            "alt": "mirai-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/158b3004-52e8-4523-8503-29b00984353d_mirai-logo.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Back-end developer",
-            "startDate": "2016-05-01",
-            "finishDate": "2017-10-01",
-            "challenges": [
-              {
-                "description": "As part of Mirai's back-end developers team, I had to analyse the requisites, design the low level architecture, code, test and deploy new functionalities.\n\nOverall, I developed software related with hotels management and statistical reports. This reports used a different DDBB to extract data, MongoDB specifically. The ETL process which migrated the data from PostgreSQL to MongoDB was one of my biggest achievements.\n\nAlso, I had to develop Front-end related stories, using JQuery, JSPs, CSS Styles, etc. This developments where focused in the company's intranet, where hoteliers configure their hotels.\n\nAnother business branch was the third-party integration with brands like Google, Trivago, TripAdvisor,etc. I contributed in the development of Trivago's ExpressBooking and Google's HotelAds API integration."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Maven",
-                "type": "technology"
-              },
-              {
-                "name": "Tomcat",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "RabbitMQ",
-                "type": "technology"
-              },
-              {
-                "name": "Spring-Batch",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
                 "type": "technology"
               }
             ]
@@ -430,19 +300,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "AngularJS",
                 "type": "technology"
               },
               {
-                "name": "Oracle",
-                "type": "technology"
-              },
-              {
-                "name": "Sonar",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -454,7 +316,152 @@
                 "type": "technology"
               },
               {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Sonar",
+                "type": "technology"
+              },
+              {
                 "name": "Weblogic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mirai",
+          "image": {
+            "alt": "mirai-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/158b3004-52e8-4523-8503-29b00984353d_mirai-logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back-end developer",
+            "startDate": "2016-05-01",
+            "finishDate": "2017-10-01",
+            "challenges": [
+              {
+                "description": "As part of Mirai's back-end developers team, I had to analyse the requisites, design the low level architecture, code, test and deploy new functionalities.\n\nOverall, I developed software related with hotels management and statistical reports. This reports used a different DDBB to extract data, MongoDB specifically. The ETL process which migrated the data from PostgreSQL to MongoDB was one of my biggest achievements.\n\nAlso, I had to develop Front-end related stories, using JQuery, JSPs, CSS Styles, etc. This developments where focused in the company's intranet, where hoteliers configure their hotels.\n\nAnother business branch was the third-party integration with brands like Google, Trivago, TripAdvisor,etc. I contributed in the development of Trivago's ExpressBooking and Google's HotelAds API integration."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Spring-Batch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "HPEnterprise",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ac75d8ef-81f4-4936-9d29-4d0c063f2813_shared-image.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back-end developer",
+            "startDate": "2015-11-01",
+            "finishDate": "2016-05-01",
+            "challenges": [
+              {
+                "description": "As a member of the Back-End team, I had to analyze the new modules of the system, create the low-level architecture, code it and test that works as intended."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Maven",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tap Consulting S.L.",
+          "image": {
+            "alt": "Shared Image.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/ee8beb84-925f-4b43-b32f-f9bfe8739a86_shared-image.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back-end developer",
+            "startDate": "2015-02-01",
+            "finishDate": "2015-06-01",
+            "challenges": [
+              {
+                "description": "Twenty (20) KPIs developed working with business consultants and graphic designers.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "Vaadin",
                 "type": "technology"
               }
             ]
@@ -463,17 +470,6 @@
       }
     ],
     "publicArtifacts": [
-      {
-        "details": {
-          "name": "Nasa SpaceApps 2014",
-          "description": "3rd award in Zaragoza"
-        },
-        "type": "achievement",
-        "publishingDate": "2014-04-01",
-        "tags": [
-          "Hackatons"
-        ]
-      },
       {
         "details": {
           "name": "ELK Talk",
@@ -501,16 +497,27 @@
         "tags": [
           "Hackatons"
         ]
+      },
+      {
+        "details": {
+          "name": "Nasa SpaceApps 2014",
+          "description": "3rd award in Zaragoza"
+        },
+        "type": "achievement",
+        "publishingDate": "2014-04-01",
+        "tags": [
+          "Hackatons"
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English"
       },
       {
-        "name": "English"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -591,6 +598,94 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "AWS: Tu primer deploy en EC2",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "Codely",
+          "URL": "https://pro.codely.tv/library/aws-tu-primer-deploy-en-ec2-29085/62577/path/",
+          "image": {
+            "alt": "logo-CodelyTV.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d82f04eb-e9b0-4732-89f6-d227728b27eb_logo-codelytv.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "AWS EC2",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS: Autoescalado de aplicaciones con ALB y ASG",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "Codely",
+          "URL": "https://pro.codely.tv/library/aws-autoescalado-de-aplicaciones-con-alb-y-asg-31133/66589",
+          "image": {
+            "alt": "logo-CodelyTV.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/5e54d2f8-fffb-4190-9dd1-0cf71e397158_logo-codelytv.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Git: Introducción y trabajo en equipo",
+        "startDate": "2022-02-01",
+        "finishDate": "2022-02-01",
+        "institution": {
+          "name": "Codely",
+          "URL": "https://pro.codely.tv/library/git-introduccion-y-trabajo-en-equipo-45727/93728/path/",
+          "image": {
+            "alt": "logo-CodelyTV.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/53f4ba08-b5d2-4618-95c3-1668043f99d6_logo-codelytv.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "ELK+Beats: Centraliza logs con Elastic Stack",
+        "startDate": "2021-12-01",
+        "finishDate": "2021-12-01",
+        "institution": {
+          "name": "Codely",
+          "URL": "https://pro.codely.tv/library/elkbeats-centraliza-logs-con-elastic-stack-36986/88971/path/",
+          "image": {
+            "alt": "logo-CodelyTV.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/4cf9b27e-3a1d-4688-a031-52ba09dee8e3_logo-codelytv.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "ELK",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Machine Learning",
         "startDate": "2017-02-01",
         "finishDate": "2017-05-01",
@@ -606,28 +701,6 @@
         "linkedCompetences": [
           {
             "name": "Matlab",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Functional Programming Principles in Scala",
-        "startDate": "2016-06-01",
-        "finishDate": "2016-09-01",
-        "institution": {
-          "name": "Coursera",
-          "description": "Platform: Coursera\nUniversity: École Polytechnique Fédérale de Lausanne\nTeacher: Martin Odersky",
-          "URL": "https://www.coursera.org/learn/scala-functional-programming/home/welcome",
-          "image": {
-            "alt": "Screenshot 2022-03-28 at 20.25.02.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/16ee849e-1b79-46d4-a3ec-52626a752a70_screenshot-2022-03-2.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Scala",
             "type": "technology"
           }
         ]
@@ -657,91 +730,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "ELK+Beats: Centraliza logs con Elastic Stack",
-        "startDate": "2021-12-01",
-        "finishDate": "2021-12-01",
+        "name": "Functional Programming Principles in Scala",
+        "startDate": "2016-06-01",
+        "finishDate": "2016-09-01",
         "institution": {
-          "name": "Codely",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/elkbeats-centraliza-logs-con-elastic-stack-36986/88971/path/",
+          "name": "Coursera",
+          "description": "Platform: Coursera\nUniversity: École Polytechnique Fédérale de Lausanne\nTeacher: Martin Odersky",
+          "URL": "https://www.coursera.org/learn/scala-functional-programming/home/welcome",
           "image": {
-            "alt": "logo-CodelyTV.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/4cf9b27e-3a1d-4688-a031-52ba09dee8e3_logo-codelytv.jpg"
+            "alt": "Screenshot 2022-03-28 at 20.25.02.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/16ee849e-1b79-46d4-a3ec-52626a752a70_screenshot-2022-03-2.png"
           }
         },
         "linkedCompetences": [
           {
-            "name": "ELK",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS: Tu primer deploy en EC2",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-03-01",
-        "institution": {
-          "name": "Codely",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/aws-tu-primer-deploy-en-ec2-29085/62577/path/",
-          "image": {
-            "alt": "logo-CodelyTV.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d82f04eb-e9b0-4732-89f6-d227728b27eb_logo-codelytv.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          },
-          {
-            "name": "EC2",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Git: Introducción y trabajo en equipo",
-        "startDate": "2022-02-01",
-        "finishDate": "2022-02-01",
-        "institution": {
-          "name": "Codely",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/git-introduccion-y-trabajo-en-equipo-45727/93728/path/",
-          "image": {
-            "alt": "logo-CodelyTV.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/53f4ba08-b5d2-4618-95c3-1668043f99d6_logo-codelytv.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Git",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS: Autoescalado de aplicaciones con ALB y ASG",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-04-01",
-        "institution": {
-          "name": "Codely",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/aws-autoescalado-de-aplicaciones-con-alb-y-asg-31133/66589",
-          "image": {
-            "alt": "logo-CodelyTV.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/5e54d2f8-fffb-4190-9dd1-0cf71e397158_logo-codelytv.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
+            "name": "Scala",
             "type": "technology"
           }
         ]
@@ -775,19 +778,15 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Scala",
-          "type": "technology"
-        },
-        {
           "name": "AWS",
           "type": "technology"
         },
         {
-          "name": "PySpark",
+          "name": "Azure",
           "type": "technology"
         },
         {
-          "name": "Spark",
+          "name": "PySpark",
           "type": "technology"
         },
         {
@@ -799,7 +798,11 @@
           "type": "technology"
         },
         {
-          "name": "Azure",
+          "name": "Scala",
+          "type": "technology"
+        },
+        {
+          "name": "Spark",
           "type": "technology"
         }
       ]
