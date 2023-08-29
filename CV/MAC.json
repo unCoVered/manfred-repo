@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,22 +11,12 @@
       "title": "Data Engineer",
       "description": "I'm a software engineer with almost 10 years of experience in different roles: from backend developer to data-engineer, currently working as a fullstack developer in a small company. \n\nI'm more skilled with BackEnd related duties, and my expertise are databases and creating data-oriented architectures. \nI can defend myself with DevOps tasks and JavaScript developments. ",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkY5hXt0UWQ0RqImEFfET30k)",
         "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Aragón",
+        "municipality": "Zaragoza"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/unCoVered"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/aLeX134_"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I love learning new things",
@@ -42,27 +32,27 @@
         "title": "Data Centric, the backbone of digital transformation",
         "type": "reading",
         "URL": "https://en.paradigmadigital.com/techbiz/data-centric-backbone-digital-transformation/",
+        "summary": "How to desing your Big-Data architecture correctly and how important is the 'data' to obtain valuable information",
         "authors": [
           {
             "name": "Alejandro",
             "surnames": "Asensio",
             "title": "Author"
           }
-        ],
-        "summary": "How to desing your Big-Data architecture correctly and how important is the 'data' to obtain valuable information"
+        ]
       },
       {
         "title": "What is a Monad",
         "type": "reading",
         "URL": "https://towardsdatascience.com/monads-from-the-lens-of-imperative-programmer-af1ab8c8790c",
+        "summary": "There are a lot of problems understanding what is monad when we are talking about pure functional programming. \n\nThis artricle tries to simplify the explanation.",
         "authors": [
           {
             "name": "Vidisha",
             "surnames": "Jitani",
             "title": "Author"
           }
-        ],
-        "summary": "There are a lot of problems understanding what is monad when we are talking about pure functional programming. \n\nThis artricle tries to simplify the explanation."
+        ]
       }
     ]
   },
@@ -72,8 +62,8 @@
         "organization": {
           "name": "Pixsy",
           "image": {
-            "alt": "pixsy_2018_logo_email_xs.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/57b0dd5b-1d62-4488-a6b0-6e7d7bea23e2_pixsy_2018_logo_emai.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/57b0dd5b-1d62-4488-a6b0-6e7d7bea23e2_pixsy_2018_logo_emai.png",
+            "alt": "pixsy_2018_logo_email_xs.png"
           },
           "URL": "https://www.pixsy.com"
         },
@@ -197,8 +187,8 @@
         "organization": {
           "name": "Stratio",
           "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/832ee0d3-b8e3-4a54-bceb-ddf5df70d997_shared-image.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/832ee0d3-b8e3-4a54-bceb-ddf5df70d997_shared-image.png",
+            "alt": "Shared Image.png"
           }
         },
         "roles": [
@@ -268,8 +258,8 @@
         "organization": {
           "name": "Neoris S.L.",
           "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a3482f12-35d7-4d9a-80d2-fb08118585ae_shared-image.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a3482f12-35d7-4d9a-80d2-fb08118585ae_shared-image.png",
+            "alt": "Shared Image.png"
           }
         },
         "roles": [
@@ -351,8 +341,8 @@
         "organization": {
           "name": "Neoris S.L.",
           "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a41182dc-bec2-4de5-bf93-1f588cba64c5_shared-image.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/a41182dc-bec2-4de5-bf93-1f588cba64c5_shared-image.png",
+            "alt": "Shared Image.png"
           }
         },
         "roles": [
@@ -402,8 +392,8 @@
         "organization": {
           "name": "Mirai",
           "image": {
-            "alt": "158b3004-52e8-4523-8503-29b00984353d_mirai-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/b3edb581-88f8-46f3-a9e1-e1c162f5cf1a_158b3004-52e8-4523-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/b3edb581-88f8-46f3-a9e1-e1c162f5cf1a_158b3004-52e8-4523-8.png",
+            "alt": "158b3004-52e8-4523-8503-29b00984353d_mirai-logo.png"
           },
           "URL": "https://es.mirai.com/es/"
         },
@@ -454,8 +444,8 @@
         "organization": {
           "name": "HPEnterprise",
           "image": {
-            "alt": "Hewlett_Packard_Enterprise_logo.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/45307d6d-8198-4a1d-b7c2-bc4a5f5864ab_hewlett_packard_ente.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/45307d6d-8198-4a1d-b7c2-bc4a5f5864ab_hewlett_packard_ente.png",
+            "alt": "Hewlett_Packard_Enterprise_logo.svg.png"
           },
           "URL": "https://www.google.com/search?client=safari&rls=en&q=hpe&ie=UTF-8&oe=UTF-8"
         },
@@ -498,8 +488,8 @@
         "organization": {
           "name": "Tap Consulting S.L.",
           "image": {
-            "alt": "logo-header.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/162bff03-126d-4469-812f-2ccb03b6eada_logo-header.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/02/162bff03-126d-4469-812f-2ccb03b6eada_logo-header.jpg",
+            "alt": "logo-header.jpg"
           },
           "URL": "https://tapconsultoria.com"
         },
@@ -547,14 +537,14 @@
         },
         "type": "talk",
         "publishingDate": "2021-12-01",
+        "tags": [
+          "Talks"
+        ],
         "relatedCompetences": [
           {
             "name": "ELK",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Talks"
         ]
       },
       {
@@ -584,36 +574,24 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Spark",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scala",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
+          "name": "Azure",
           "type": "technology"
         }
       },
@@ -625,25 +603,13 @@
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redshift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
           "type": "technology"
         }
       },
@@ -655,7 +621,31 @@
       },
       {
         "skill": {
-          "name": "Azure",
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redshift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scala",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       },
@@ -670,18 +660,38 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "AWS: Tu primer deploy en EC2",
+        "name": "AWS: Autoescalado de aplicaciones con ALB y ASG",
         "startDate": "2022-03-01",
-        "finishDate": "2022-03-01",
         "institution": {
           "name": "Codely",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/aws-tu-primer-deploy-en-ec2-29085/62577/path/",
+          "URL": "https://pro.codely.tv/library/aws-autoescalado-de-aplicaciones-con-alb-y-asg-31133/66589",
           "image": {
-            "alt": "logo-CodelyTV.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d82f04eb-e9b0-4732-89f6-d227728b27eb_logo-codelytv.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/5e54d2f8-fffb-4190-9dd1-0cf71e397158_logo-codelytv.jpg",
+            "alt": "logo-CodelyTV.jpg"
           }
         },
+        "finishDate": "2022-04-01",
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS: Tu primer deploy en EC2",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Codely",
+          "URL": "https://pro.codely.tv/library/aws-tu-primer-deploy-en-ec2-29085/62577/path/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d82f04eb-e9b0-4732-89f6-d227728b27eb_logo-codelytv.jpg",
+            "alt": "logo-CodelyTV.jpg"
+          }
+        },
+        "finishDate": "2022-03-01",
         "linkedCompetences": [
           {
             "name": "AWS",
@@ -694,64 +704,34 @@
         ]
       },
       {
-        "studyType": "certification",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "AWS: Autoescalado de aplicaciones con ALB y ASG",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-04-01",
+        "name": "Computer Engineering",
+        "startDate": "2010-09-01",
         "institution": {
-          "name": "Codely",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/aws-autoescalado-de-aplicaciones-con-alb-y-asg-31133/66589",
+          "name": "University of Zaragoza",
+          "description": "Degree in Computer Engineering",
           "image": {
-            "alt": "logo-CodelyTV.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/5e54d2f8-fffb-4190-9dd1-0cf71e397158_logo-codelytv.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/91bfc0af-2aa2-440c-ba3a-0692b9b77816_shared-image.png",
+            "alt": "Shared Image.png"
           }
         },
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Git: Introducción y trabajo en equipo",
-        "startDate": "2022-02-01",
-        "finishDate": "2022-02-01",
-        "institution": {
-          "name": "Codely",
-          "description": "",
-          "URL": "https://pro.codely.tv/library/git-introduccion-y-trabajo-en-equipo-45727/93728/path/",
-          "image": {
-            "alt": "logo-CodelyTV.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/53f4ba08-b5d2-4618-95c3-1668043f99d6_logo-codelytv.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Git",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2015-10-01"
       },
       {
         "studyType": "certification",
         "degreeAchieved": true,
         "name": "ELK+Beats: Centraliza logs con Elastic Stack",
         "startDate": "2021-12-01",
-        "finishDate": "2021-12-01",
         "institution": {
           "name": "Codely",
-          "description": "",
           "URL": "https://pro.codely.tv/library/elkbeats-centraliza-logs-con-elastic-stack-36986/88971/path/",
           "image": {
-            "alt": "logo-CodelyTV.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/4cf9b27e-3a1d-4688-a031-52ba09dee8e3_logo-codelytv.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/4cf9b27e-3a1d-4688-a031-52ba09dee8e3_logo-codelytv.jpg",
+            "alt": "logo-CodelyTV.jpg"
           }
         },
+        "finishDate": "2021-12-01",
         "linkedCompetences": [
           {
             "name": "ELK",
@@ -762,40 +742,18 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Machine Learning",
-        "startDate": "2017-02-01",
-        "finishDate": "2017-05-01",
-        "institution": {
-          "name": "Coursera",
-          "description": "Platform: Coursera\nUniversity: Stanford Machine Learning course\nTeacher: Andrew Ng",
-          "URL": "https://www.coursera.org/learn/machine-learning/home/welcome",
-          "image": {
-            "alt": "Screenshot 2022-03-28 at 20.25.02.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/649c6eae-6072-4a23-b8d5-41a73f60d396_screenshot-2022-03-2.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Matlab",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "Functional Program Design in Scala",
         "startDate": "2016-09-01",
-        "finishDate": "2016-12-01",
         "institution": {
           "name": "Coursera",
           "description": "Platform: Coursera\nUniversity: École Polytechnique Fédérale de Lausanne\nTeacher: Martin Odersky",
           "URL": "https://www.coursera.org/learn/scala-functional-program-design/home/welcome",
           "image": {
-            "alt": "Screenshot 2022-03-28 at 20.25.02.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d609625d-5071-433e-853d-38e5e0bd2865_screenshot-2022-03-2.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/d609625d-5071-433e-853d-38e5e0bd2865_screenshot-2022-03-2.png",
+            "alt": "Screenshot 2022-03-28 at 20.25.02.png"
           }
         },
+        "finishDate": "2016-12-01",
         "linkedCompetences": [
           {
             "name": "Scala",
@@ -808,16 +766,16 @@
         "degreeAchieved": true,
         "name": "Functional Programming Principles in Scala",
         "startDate": "2016-06-01",
-        "finishDate": "2016-09-01",
         "institution": {
           "name": "Coursera",
           "description": "Platform: Coursera\nUniversity: École Polytechnique Fédérale de Lausanne\nTeacher: Martin Odersky",
           "URL": "https://www.coursera.org/learn/scala-functional-programming/home/welcome",
           "image": {
-            "alt": "Screenshot 2022-03-28 at 20.25.02.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/16ee849e-1b79-46d4-a3ec-52626a752a70_screenshot-2022-03-2.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/16ee849e-1b79-46d4-a3ec-52626a752a70_screenshot-2022-03-2.png",
+            "alt": "Screenshot 2022-03-28 at 20.25.02.png"
           }
         },
+        "finishDate": "2016-09-01",
         "linkedCompetences": [
           {
             "name": "Scala",
@@ -826,18 +784,66 @@
         ]
       },
       {
-        "studyType": "officialDegree",
+        "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Computer Engineering",
-        "startDate": "2010-09-01",
-        "finishDate": "2015-10-01",
+        "name": "Git: Introducción y trabajo en equipo",
+        "startDate": "2022-02-01",
         "institution": {
-          "name": "University of Zaragoza",
-          "description": "Degree in Computer Engineering",
+          "name": "Codely",
+          "URL": "https://pro.codely.tv/library/git-introduccion-y-trabajo-en-equipo-45727/93728/path/",
           "image": {
-            "alt": "Shared Image.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/91bfc0af-2aa2-440c-ba3a-0692b9b77816_shared-image.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/53f4ba08-b5d2-4618-95c3-1668043f99d6_logo-codelytv.jpg",
+            "alt": "logo-CodelyTV.jpg"
           }
+        },
+        "finishDate": "2022-02-01",
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Machine Learning",
+        "startDate": "2017-02-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "Platform: Coursera\nUniversity: Stanford Machine Learning course\nTeacher: Andrew Ng",
+          "URL": "https://www.coursera.org/learn/machine-learning/home/welcome",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/649c6eae-6072-4a23-b8d5-41a73f60d396_screenshot-2022-03-2.png",
+            "alt": "Screenshot 2022-03-28 at 20.25.02.png"
+          }
+        },
+        "finishDate": "2017-05-01",
+        "linkedCompetences": [
+          {
+            "name": "Matlab",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good presentation skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Listening ability",
+          "type": "practice"
         }
       }
     ]
@@ -846,8 +852,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alejandro-gálvez-vicente-181a588b/"
+          "URL": "https://github.com/unCoVered",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/aLeX134_",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "alexgalvez8292@icloud.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "692550887",
+          "countryCode": "+34"
         }
       ]
     },
@@ -901,5 +920,16 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My dream job would be one that gives me freedom. I want to work from wherever I want and, if possible, with flexible schedule. \nI think that my work talks by itself and I don't need to justify my work hours sitting in a chair. \nAlso, I'd like to be paid accordingly with my responsabilities. \n\nIf I could choose in a perfect world, I'd love to work for a company which helps others and tries to make the world a better place. I'd love that my work helps for causes I find meaninful; not for a bank or an oil company.",
+    "bookmarks": [
+      {
+        "name": "Data Centric, the backbone of digital transformation"
+      },
+      {
+        "name": "What is a Monad"
+      }
+    ]
   }
 }
