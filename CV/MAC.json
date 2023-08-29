@@ -946,6 +946,10 @@
         "type": "technology"
       },
       {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
         "name": "PostgreSQL",
         "type": "technology"
       }
