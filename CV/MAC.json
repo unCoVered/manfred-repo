@@ -940,6 +940,16 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "My dream job would be one that gives me freedom. I want to work from wherever I want and, if possible, with flexible schedule. \nI think that my work talks by itself and I don't need to justify my work hours sitting in a chair. \nAlso, I'd like to be paid accordingly with my responsabilities. \n\nIf I could choose in a perfect world, I'd love to work for a company which helps others and tries to make the world a better place. I'd love that my work helps for causes I find meaninful; not for a bank or an oil company.",
     "bookmarks": [
       {
