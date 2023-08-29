@@ -942,6 +942,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
         "name": "MongoDB",
         "type": "technology"
       },
@@ -951,6 +955,10 @@
       },
       {
         "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spark",
         "type": "technology"
       }
     ],
