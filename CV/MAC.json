@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -53,6 +53,16 @@
             "title": "Author"
           }
         ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/unCoVered"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/aLeX134_"
       }
     ]
   },
@@ -168,7 +178,7 @@
                 "type": "technology"
               },
               {
-                "name": "Sonar",
+                "name": "SonarQube",
                 "type": "technology"
               },
               {
@@ -278,7 +288,11 @@
                 "type": "technology"
               },
               {
-                "name": "Aurora",
+                "name": "AWS Aurora",
+                "type": "technology"
+              },
+              {
+                "name": "AWS Lambda",
                 "type": "technology"
               },
               {
@@ -310,10 +324,6 @@
                 "type": "technology"
               },
               {
-                "name": "Lambda",
-                "type": "technology"
-              },
-              {
                 "name": "Nexus",
                 "type": "technology"
               },
@@ -330,7 +340,7 @@
                 "type": "technology"
               },
               {
-                "name": "Sonar",
+                "name": "SonarQube",
                 "type": "technology"
               }
             ]
@@ -377,7 +387,7 @@
                 "type": "technology"
               },
               {
-                "name": "Sonar",
+                "name": "SonarQube",
                 "type": "technology"
               },
               {
@@ -575,10 +585,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -886,12 +898,6 @@
       ],
       "contactMails": [
         "alexgalvez8292@icloud.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "692550887",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
